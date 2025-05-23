@@ -15,7 +15,7 @@ I am a Final year engineering student at Universiti Tenaga Nasional (UNITEN)
 
 
 ## 🎓 **Education**  
- - **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional 
+ - B.Eng in Electrical & Electronics Engineering | Universiti Tenaga Nasional 
 
 
 ## 💼 **Work Experience**  
