@@ -1,7 +1,5 @@
 # Ashveen Arasan Anbusamy 
 
-#### Final Year Engineering Student | Bachelors in Electrical and Electronics Engineering (Hons.) | Part-Time Futsal Coach  
-
 
 ## 🚀 **About Me**  
 I am a Final year engineering student at Universiti Tenaga Nasional (UNITEN) 
