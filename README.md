@@ -21,7 +21,14 @@ I am a Final year engineering student at Universiti Tenaga Nasional (UNITEN)
 - Handle children under 5 and 10 years old.
 - Assist Head coach during training sessions.
 - Ensure class control.
-- Planning sessions with age appropriate activities for players.  
+- Planning sessions with age appropriate activities for players.
+
+  ### **Graduate Development Programme (GDP) @ TIMEdotcom (Jul 2025 - Jul 2025)**  
+-Developed in-depth knowledge of TIME’s business operations by participating in structured classroom sessions and department rotations, resulting in a comprehensive understanding of the telecom value chain across Sales, Retail, Wholesale, and Network.
+- Strengthened strategic thinking by conducting a full SWOT analysis of TIME’s Wholesale business, providing actionable insights to identify growth opportunities and market positioning improvements.
+- Enhanced technical proficiency by participating in fiber splicing activities during a visit to TIME’s Cable Landing Station (CLS) in Penang, contributing to hands-on experience in network infrastructure.
+- Improved industry awareness through on-site visits to AIMS Data Centre and CLS facilities, boosting understanding of data center operations and international subsea cable systems.
+- Built cross-functional communication and collaboration skills by engaging with teams across multiple departments and contributing to knowledge-sharing sessions during the program.
 
 ### **MEP Engineer @ Sunway Construction Group Berhad (Internship) (Jul 2024 - Sep 2024)**  
 - Conducted quantity takeoff for lighting.
